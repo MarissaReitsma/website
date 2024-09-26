@@ -9,9 +9,9 @@ format:
 ---
 
 # Marissa Reitsma, PhD
-#### Assistant Professor of Health Policy, Stanford University
+#### Interim Instructor of Health Policy, Stanford University
 \
 
-Marissa Reitsma, Ph.D. is an incoming Assistant Professor of Health Policy in the [Department of Health Policy](https://healthpolicy.fsi.stanford.edu/) at the Stanford University School of Medicine. She obtained her Ph.D. in Health Policy from Stanford in 2024, during which time she was a Knight-Hennessy Scholar, Stanford Data Science Scholar, and NSF Graduate Research Fellow. Previously, she worked on the Global Burden of Disease Study at the [Institute for Health Metrics and Evaluation](https://www.healthdata.org/). Dr. Reitsma develops computational models to quantify disease burden, evaluate the benefits and costs of interventions, and support evidence-based policies across a range of priorities in public health, with a focus on health equity. Learn more about her [research](research.qmd) on [syndemics](research.qmd#syndemics), [disease burden and forecasting](research.qmd#burden), [multimodal data synthesis](research.qmd#multimodal), and [healthcare access, cost, and quality](research.qmd#hsr).
+Marissa Reitsma, Ph.D. is an Interim Instructor of Health Policy in the [Department of Health Policy](https://healthpolicy.fsi.stanford.edu/) at the Stanford University School of Medicine. She obtained her Ph.D. in Health Policy from Stanford in 2024, during which time she was a Knight-Hennessy Scholar, Stanford Data Science Scholar, and NSF Graduate Research Fellow. Previously, she worked on the Global Burden of Disease Study at the [Institute for Health Metrics and Evaluation](https://www.healthdata.org/). Dr. Reitsma develops computational models to quantify disease burden, evaluate the benefits and costs of interventions, and support evidence-based policies across a range of priorities in public health, with a focus on health equity. Learn more about her [research](research.qmd) on [syndemics](research.qmd#syndemics), [disease burden and forecasting](research.qmd#burden), [multimodal data synthesis](research.qmd#multimodal), and [healthcare access, cost, and quality](research.qmd#hsr).
 
 If you are interested to connect, please reach out to: mreitsma \[at\] stanford \[dot\] edu.

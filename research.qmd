@@ -1,0 +1,85 @@
+---
+title: "Research"
+---
+
+### Overview
+
+I aim to build syndemic simulation models that integrate the overlapping risk factors, social determinants, and health conditions that disproportionately impact under-served populations. I also investigate the potential for multimodal data synthesis to inform these models, improve population health decision-making, and reduce health disparities. My work spans multiple communicable and non-communicable conditions linked to behavioral risk factors, including tobacco use, drug use, and obesity. During the COVID-19 pandemic, I partnered with local public health agencies to inform their decision-making. Additionally, I engage in interdisciplinary collaborative research to improve healthcare access, cost, and quality.
+
+A complete list of publications is available on my [CV](cv.qmd) or through [Google Scholar](https://scholar.google.com/citations?hl=en&user=Zl2-Iy0AAAAJ&view_op=list_works&sortby=pubdate).
+
+\
+
+### Syndemic Simulation Models {#syndemics}
+
+*Syndemics are overlapping epidemics, driven by contextual or social factors, that result in adverse interactions. I develop syndemic simulation models with the goal of improving our understanding of interventions that act on upstream determinants of health.*
+
+##### **In-Progress: Pathways to Achieve HIV and HCV Infection Incidence Targets Among People Who Inject Drugs: A Stochastic Network-Based Multi-Disease Transmission Modeling Study**
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Summary
+
+Using data from the National HIV Behavioral Surveillance (NHBS) system, we developed an agent-based network model of HIV, hepatitis C virus (HCV), and overdose among people who inject drugs (PWID). We simulated the short-term and long-term impacts of scaling single and combined interventions that have three mechanisms of action: 1) reducing infection transmission probabilities, 2) increasing cessation rates, and 3) treating infections. Our study underscores the value of implementing and expanding evidence-based comprehensive treatment and harm reduction services for PWID.
+
+Authors: Marissa Reitsma, Lin Zhu, Hasan Symum, Nathan Furukawa, Dita Broz, Kevin Delaney, Eliza Ennis, Angela Estadt, Senad Handanagic, Dafna Kanny, Benjamin Linas, Nisha Nataraj, Douglas Owens, Teresa Puente, Liisa Randall, Jeremy Goldhaber-Fiebert, Joshua Salomon; for the NHBS Study Group
+:::
+
+##### **In-Progress: Health and Economic Effects of Expanding Integrated Services for People Who Inject Drugs in Massachusetts**
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Summary
+
+Integrated service delivery, through which PWID can access multiple services addressing multiple conditions at a single site, is a promising approach to increase access, efficiency, and effectiveness of interventions that respond to the syndemic of substance use, HIV, and HCV among PWID. We adapted our agent-based model of PWID to the Massachusetts context using local surveillance and program data and evaluated the health and economic effects of expanding integrated services for PWID.
+:::
+
+
+\
+
+### Disease Burden, Forecasting, and Public Health Policy Impact {#burden}
+
+*Effective public health policymaking requires a clear understanding of the burden of disease and opportunities for intervention. I generate estimates of disease burden and the potential impact of public health policies.*
+
+gbd 2019
+
+age of initiation
+
+forecasting
+
+covid vax
+
+health affairs covid ca
+
+\
+
+### Multimodal Data Synthesis {#multimodal}
+
+*Timely, high-resolution data are essential to health decision-making. I research methods for multimodal data synthesis that leverage complementary strengths of multiple sources of information.*
+
+MDM
+
+##### **In-Progress: Partial Identification of Small-Area Estimates of Population Health Indicators from Large-Scale Online Surveys with Sampling Bias** (with Amy Guan, Roshni Sahoo, Joshua Salomon, and Stefan Wager) 
+
+\
+
+### Healthcare Access, Costs, and Quality {#hsr}
+
+*Working with domain experts, I apply a range of methods to analyze claims, census, survey, health record, program, and other data to generate policy-relevant evidence on issues of healthcare access, costs, and quality.*
+
+##### **Examining Opportunities to Increase Savings From Medicare Price Negotiations**
+
+##### **Under Review: Extending Prescription Drug Inflationary Rebates to Commercial Health Plans: Opportunities for Congress and the States**
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Authors
+
+Marissa Reitsma, Stacie Dusetzina, Jeromie Ballreich, Antonio Trujillo, Michelle Mello
+:::
+
+##### **In-Progress: Machine Learning Algorithms to Improve Fairness in Medicare Risk Adjustment** 
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## Authors
+
+Marissa Reitsma, Thomas McGuire, Sherri Rose
+:::
+
